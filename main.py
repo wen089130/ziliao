@@ -185,6 +185,8 @@ class Application_ui(Frame):
         self.xmax_orig = 352
         self.ymax_orig = 498
 
+
+
         cv2.rectangle(
             self.im_orig,
             pt1=(self.xmin_orig, self.ymin_orig),
