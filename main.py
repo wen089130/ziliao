@@ -297,6 +297,8 @@ class Application(Application_ui):
         #         print(aa[i])
         #    if aa[i].endswith('构配件'):
         #         print(aa[i])
+
+
         # TODO, Please finish the function here!
         # self.Text1.delete(0.0, END)
         # self.Label2Var = StringVar(value='管片')
