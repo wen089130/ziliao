@@ -319,7 +319,7 @@ class Application(Application_ui):
     # 初始化机器人
     def Command2_Cmd(self, event=None):
         # TODO, Please finish the function here!
-        self.write_log_to_Text("设备初始化成功，准备开始工作")
+        self.write_log_to_Text("设备初始化成功，准备开始工作11111111111111")
         # self.updateui1()
 
         kongzhi.qidong(self)
